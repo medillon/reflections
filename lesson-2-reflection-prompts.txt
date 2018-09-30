@@ -13,6 +13,7 @@ You can check what changes have been made prior to committing those changes. How
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Maybe to make major changes or new additions without affecting the ongoing one...
 
 How do the diagrams help you visualize the branch structure?
 
