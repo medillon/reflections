@@ -22,5 +22,7 @@ By indicating connections (parent-child), you can better understand what is on a
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It merges the changes on the two branches, keeping track of those as commits in a single branch, sorted by time.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
