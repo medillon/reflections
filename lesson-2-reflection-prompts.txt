@@ -17,6 +17,8 @@ Maybe to make major changes or new additions without affecting the ongoing one..
 
 How do the diagrams help you visualize the branch structure?
 
+By indicating connections (parent-child), you can better understand what is on a branch and what is not.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
