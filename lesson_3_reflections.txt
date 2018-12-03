@@ -7,7 +7,9 @@ You could pull, work on things, then push so collaborators can pick up where you
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+   Because git doesn't know when you have reached a good place for a commit.
+   One of the strongest arguments for a version-control system vs something like
+   Dropbox is that idea of meaningful changes get updated not all changes (if you are keeping track of commits.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
