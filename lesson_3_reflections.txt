@@ -25,7 +25,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Could pass files back and forth (as we often do), but then keeping track of the latest (and old) versions is tough. Could do real time writing on Google docs -- it has version history, right? But have to be online? Other issues with this approach?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
