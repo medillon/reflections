@@ -30,4 +30,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want feedback and other eyes to make sure you aren't breaking master. For things that aren't bug fixes per se, but rather subjective changes, you might want to get feedback through pull requests first.
